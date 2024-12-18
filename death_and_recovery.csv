@@ -1,0 +1,36 @@
+Age,Gender,Patient_status,City,State,comorbidity,State_code
+70,M,Deceased,Mumbai,Maharashtra,diabetes,MH
+85,M,Deceased,Mumbai,Maharashtra,diabetes,MH
+54,F,Recovered,Bangalore,Karnataka,cardiovascular,KA
+65,M,Recovered,Chennai,Chennai,cerebrovascular,TN
+55,F,Recovered,Indore,Madhya Pradesh,diabetes,MP
+20,M,Recovered,Udaipur,Rajasthan,cerebrovascular,RA
+21,F,Recovered,Delhi,Delhi,diabetes,ND
+45,M,Recovered,Thane,Maharashtra,diabetes,MH
+30,M,Recovered,Kochi,Kerala,diabetes,KL
+57,M,Deceased,Howrah,West Bengal,cardiovascular,WB
+49,F,Deceased,Indore,Madhya Pradesh,cerebrovascular,MP
+57,M,Deceased,Belghoria,West Bengal,diabetes,WB
+25,M,Deceased,Gorakhpur,Uttar Pradesh,cerebrovascular,UP
+55,F,Recovered,Hyderabad,Telangana,diabetes,TL
+26,F,Recovered,Kashmir,Jammu and Kashmir,diabetes,JK
+38,M,Recovered,Amritsar,Punjab,diabetes,PB
+44,F,Recovered,Siliguri,West Bengal,cardiovascular,WB
+57,M,Recovered,Pune,Maharashtra,cerebrovascular,MH
+45,F,Recovered,Guwahati,Assam,diabetes,AS
+65,F,Recovered,Dispur,Assam,cerebrovascular,AS
+51,M,Deceased,Mumbai,Maharashtra,diabetes,MH
+72,M,Deceased,Meerut,Uttar Pradesh,diabetes,UP
+45,M,Recovered,Lucknow,Uttar Pradesh,diabetes,UP
+56,M,Deceased,Dharavi,Maharashtra,cardiovascular,MH
+52,M,Deceased,Rajkot,Gujarat,cerebrovascular,GJ
+68,F,Deceased,Puri,Bhubaneshwar,diabetes,BH
+40,F,Deceased,Bhopal,Madhya Pradesh,cerebrovascular,MP
+55,F,Recovered,Shillong,Meghalaya,diabetes,MG
+54,M,Deceased,Jaipur,Rajasthan,diabetes,RA
+42,M,Recovered,Gangtok,West Bengal,diabetes,WB
+24,F,Deceased,dehradun,uttarakhand,cardiovascular,UK
+23,M,Recovered,Darjeeling,West Bengal,cerebrovascular,WB
+78,F,Recovered,Roorkie,uttarakhand,diabetes,UK
+54,M,Recovered,Haridwar,uttarakhand,cerebrovascular,UK
+74,F,Recovered,Mysore,Karnataka,diabetes,KA

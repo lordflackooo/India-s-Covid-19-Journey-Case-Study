@@ -1,0 +1,36 @@
+Age,Gender,Patient_status,City,State,comorbidity
+70,M,Deceased,Mumbai,Maharashtra,diabetes
+85,M,Deceased,Mumbai,Maharashtra,diabetes
+54,F,Recovered,Bangalore,Karnataka,cardiovascular
+65,M,Recovered,Chennai,Chennai,cerebrovascular
+55,F,Recovered,Indore,Madhya Pradesh,diabetes
+20,M,Recovered,Udaipur,Rajasthan,cerebrovascular
+21,F,Recovered,Delhi,Delhi,diabetes
+45,M,Recovered,Thane,Maharashtra,diabetes
+30,M,Recovered,Kochi,Kerala,diabetes
+57,M,Deceased,Howrah,West Bengal,cardiovascular
+49,F,Deceased,Indore,Madhya Pradesh,cerebrovascular
+57,M,Deceased,Belghoria,West Bengal,diabetes
+25,M,Deceased,Gorakhpur,Uttar Pradesh,cerebrovascular
+55,F,Recovered,Hyderabad,Telangana,diabetes
+26,F,Recovered,Kashmir,Jammu and Kashmir,diabetes
+38,M,Recovered,Amritsar,Punjab,diabetes
+44,F,Recovered,Siliguri,West Bengal,cardiovascular
+57,M,Recovered,Pune,Maharashtra,cerebrovascular
+45,F,Recovered,Guwahati,Assam,diabetes
+65,F,Recovered,Dispur,Assam,cerebrovascular
+51,M,Deceased,Mumbai,Maharashtra,diabetes
+72,M,Deceased,Meerut,Uttar Pradesh,diabetes
+45,M,Recovered,Lucknow,Uttar Pradesh,diabetes
+56,M,Deceased,Dharavi,Maharashtra,cardiovascular
+52,M,Deceased,Rajkot,Gujarat,cerebrovascular
+68,F,Deceased,Puri,Bhubaneshwar,diabetes
+40,F,Deceased,Bhopal,Madhya Pradesh,cerebrovascular
+55,F,Recovered,Shillong,Meghalaya,diabetes
+54,M,Deceased,Jaipur,Rajasthan,diabetes
+42,M,Recovered,Gangtok,West Bengal,diabetes
+24,F,Deceased,dehradun,uttarakhand,cardiovascular
+23,M,Recovered,Darjeeling,West Bengal,cerebrovascular
+78,F,Recovered,Roorkie,uttarakhand,diabetes
+54,M,Recovered,Haridwar,uttarakhand,cerebrovascular
+74,F,Recovered,Mysore,Karnataka,diabetes
